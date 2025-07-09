@@ -1,0 +1,7 @@
+print("Hola mundo")
+print('Hola com comillas simples')
+print("Python", "es", "genial", "😀")
+print("python", "es", "genial", sep="🐍")
+print("Bienvenidos a Python", end=".\n")
+print("k")
+print("logo")
